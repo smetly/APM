@@ -1,0 +1,18 @@
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+   font-size: x-large; 
+}
+table, th, td{
+    font-size: medium;
+    padding: 3px;
+    
+    
+}
+table tr:nth-last-child(even){
+    background-color:#CCCCCC; 
+    font-weight: bold;
+    font-size: small;
+}

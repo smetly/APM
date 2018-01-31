@@ -1,0 +1,45 @@
+  {
+    "Company":"1018",
+    "SubmitDate":"2016-07-06T20:30:00",
+    "UserId":"ILA1416",
+    "Password":"123456",
+    "NumberOfTeams":2,
+    "Teams":[
+      {
+        "Location":"EMS TRADER",
+        "StartDateTime":"2016-07-06T11:00:00",
+        "EndDateTime":"2016-07-06T17:00:00",
+        "NumberOfWorkers":3,
+        "Workers":[
+          {
+            "PortID":75959,
+            "Position":"SHIP HEADER"
+          },
+          {
+            "PortID":19955,
+            "Position":"GANTRY OPERATOR"
+          },
+          {
+            "PortID":52413,
+            "Position":"GROUND FLAG"
+          }
+          ]
+      },
+      {
+        "Location":"MSC CAROUGE",
+        "StartDateTime":"2016-07-06T13:00:00",
+        "EndDateTime":"2016-07-06T20:00:00",
+        "NumberOfWorkers":2,
+        "Workers":[
+          {
+            "PortID":333333,
+            "Position":"GROUND FLAG"
+          },
+          {
+            "PortID":444444,
+            "Position":"LASHERS"
+          }
+        ]
+      }
+      ]
+    }
